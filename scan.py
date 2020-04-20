@@ -1,3 +1,5 @@
+#!/bin/usr/env python
+#coding: utf-8
 # By Kang Ngulik
 # Salam Gretongers Indonesia •
 import marshal
