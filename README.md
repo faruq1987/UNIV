@@ -11,6 +11,8 @@ pkg install python
 pkg install python2
 pip2 install --upgrade pip
 apt install git
+pip2 install http.client
+pip2 install requests
 ```
 - **Jika Sudah,Jalankan Kode Berikut Untuk Menjalankan Tools `UNIV`**
 ```
