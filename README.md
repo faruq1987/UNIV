@@ -14,7 +14,7 @@ apt install git
 ```
 - **Jika Sudah,Jalankan Kode Berikut Untuk Menjalankan Tools `UNIV`**
 ```
-git clone https://github.com/Myst-ID/UNIV
+git clone https://github.com/Kang-Ngulik/UNIV
 cd UNIV
 python -m pip install -r requirements.txt
 python scan.py
