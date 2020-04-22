@@ -1,8 +1,8 @@
 # UNIV
 - Tools Scan Proxy Universitas
 ### Note
-- **Password:** `Passwordnya Adalah Angka Waktu Di Hp Kalian`
-- **Contoh:** `Waktu Di Hp Saya Sekarang 09:37,Maka Password Yang Ditulis 0937`
+- **Password:** `Tanggal Di Hp Kalian Dan Ditambahkan 00 Dibelakangnya`
+- **Contoh:** `Tanggal Di Hp Saya Sekarang 25,Maka Password Yang Ditulis 2500`
 ### Cara Menginstall
 - **Pertama-tama Kalian Harus Menjalankan Kode Berikut**
 ```
